@@ -1,0 +1,24 @@
+{
+  "name": "addevent",
+  "version": "1.6.1",
+  "description": "AddEvent.com \"Add to Calendar\" package for npm",
+  "main": "atc.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AddEventCom/addevent-npm.git"
+  },
+  "keywords": [
+    "calendar",
+    "event",
+    "schedule"
+  ],
+  "author": "Addevent, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AddEventCom/addevent-npm/issues"
+  },
+  "homepage": "https://github.com/AddEventCom/addevent-npm#readme"
+}
