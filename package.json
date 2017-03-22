@@ -1,6 +1,6 @@
 {
   "name": "addevent",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "AddEvent.com \"Add to Calendar\" package for npm",
   "main": "atc.min.js",
   "scripts": {
